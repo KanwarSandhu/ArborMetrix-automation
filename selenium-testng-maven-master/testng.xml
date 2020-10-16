@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Registartion Suite" parallel="none">
+  <test name="testRegistration">
+  <parameter name="course" value="Math 101"/>
+	 <classes>
+	   <class name="tests.TestRegistration"/>
+	 </classes>
+   </test>
+</suite> <!-- Test Suite -->
