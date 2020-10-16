@@ -1,11 +1,10 @@
-############ This Project is built for test automation exercise only as detailed below #########################################################
+############ This Project is built for test automation exercise only as detailed below 
 Tests can be executed on using commands below (Tested on Windows 10 System on Chrome Browser Version 85.0.4183.121 (Official Build) (64-bit) 
 - mvn clean 
 - mvn test 
 
-######################################################### Requirement ###########################################################################
 
-Acceptance Criteria
+#Acceptance Criteria
 
 1. Create an end-to-end automated test for the form on https://www.jotform.com/form-
 templates/class-registration-3 using the Chrome browser with Selenium.
